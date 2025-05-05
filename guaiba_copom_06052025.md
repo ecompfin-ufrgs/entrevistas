@@ -64,7 +64,7 @@ Todas estas reuniões ocorrem nos mesmos dias o FOMC/FED a menos em novembro, po
 - Emprego
 - Produção
 - Finanças públicas - [LDO 2026 vista como irreal](https://www.cnnbrasil.com.br/economia/macroeconomia/ldo-de-2026-e-pouco-realista-e-indica-contas-estranguladas-dizem-analistas/#:~:text=O%20alerta%20considera%20que%20a,despesa%20voltar%C3%A1%20integralmente%20%C3%A0%20conta.) e a [LDO 2027 prevê falência nas contas do governo federal](https://www.camara.leg.br/noticias/1151191-governo-podera-ter-dificuldade-com-custeio-da-maquina-publica-nos-proximos-anos#:~:text=Para%202027%2C%20os%20anexos%20da,como%20cumpriu%20as%20metas%20anteriores.)
-- Inflação e juros - 
+- Inflação e juros - [curva de juros](https://www.anbima.com.br/pt_br/informar/curvas-de-juros-fechamento.htm)
 
 ### Metodologia de solução
 
