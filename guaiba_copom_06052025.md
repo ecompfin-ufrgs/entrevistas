@@ -30,6 +30,17 @@ Trata-se do Comitê de Política Monetária do Banco Central do Brasil](https://
 - Diretor de Assuntos Internacionais e Riscos Corporativos - [Paulo Piccheti](https://www.bcb.gov.br/acessoinformacao/organograma?modalAberto=Dire_Direx)
 - Diretora de Relacionamento, Cidadania e Supervisão de Conduta - Direc - [Izabela Moreira Correa​
 ](https://www.bcb.gov.br/acessoinformacao/organograma?modalAberto=Dire_Direc)
+- Diretor de Fiscalização - Difis - [Ailton Aquino dos Santos](https://www.bcb.gov.br/acessoinformacao/organograma?modalAberto=Dire_Difis)
+- Diretor de Organização do Sistema Financeiro e de Resolução - Diorf - [Renato Dias de Brito Gomes​
+](https://www.bcb.gov.br/acessoinformacao/organograma?modalAberto=Dire_Diorf)
+- Diretor de Política Econômica - Dipec - [Diogo Abry Guillen​
+](https://www.bcb.gov.br/acessoinformacao/organograma?modalAberto=Dire_Dipec)
+- Diretor de Regulação - Dinor - [Gilneu Francisco Astolfi Vivan​​
+](https://www.bcb.gov.br/acessoinformacao/organograma?modalAberto=Dire_Dinor)
+- Diretor de Política Monetária - Dipom - [Nilton José Schneider David​
+](https://www.bcb.gov.br/acessoinformacao/organograma?modalAberto=Dire_Dipom)
+- Diretor de Administração - Dirad - [Rodrigo Alves Teixeira​
+](https://www.bcb.gov.br/acessoinformacao/organograma?modalAberto=Dire_Dirad)
 
 ## O que faz o COPOM?
 
