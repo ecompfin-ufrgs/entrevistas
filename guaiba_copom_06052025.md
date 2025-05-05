@@ -16,7 +16,9 @@ Quando serão as próximas reuniões do COPOM?
 
 Trata-se do Comitê de Política Monetária do Banco Central do Brasil](https://www.bcb.gov.br/controleinflacao/copom)
 
-## [Quem são os membros do COPOM](https://www.bcb.gov.br/acessoinformacao/organograma)? Qual o perfil de cada um deles m termos de visão de política, de economia e da interação entre elas?
+## [Quem são os membros do COPOM](https://www.bcb.gov.br/acessoinformacao/organograma)? 
+
+O COPOM é formado pelo Presidente do BC e dos seus diretores.  O perfil de cada um deles, que sugere visão de política, de economia e da interação entre elas vai abaixo.
 
 - Presidente do BC - [Gabriel Galípolo](https://www.bcb.gov.br/acessoinformacao/organograma?modalAberto=Presidente_BC)
 - Diretor de Assuntos Internacionais e Riscos Corporativos - [Paulo Piccheti](https://www.bcb.gov.br/acessoinformacao/organograma?modalAberto=Dire_Direx)
