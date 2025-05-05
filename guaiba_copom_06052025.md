@@ -14,7 +14,7 @@ Quando serão as próximas reuniões do COPOM?
 
 ## O que é o COPOM
 
-Trata-se do Comitê de Política Monetária do Banco Central do Brasil](https://www.bcb.gov.br/controleinflacao/copom)
+Trata-se do [Comitê de Política Monetária do Banco Central do Brasil](https://www.bcb.gov.br/controleinflacao/copom)
 
 ## [Quem são os membros do COPOM](https://www.bcb.gov.br/acessoinformacao/organograma)? 
 
