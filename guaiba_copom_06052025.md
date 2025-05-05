@@ -2,6 +2,7 @@
 
 ## Introdução
 
+[Link da Transmissão](https://www.youtube.com/watch?v=jswP06r9OuA&ab_channel=R%C3%A1dioGua%C3%ADbaOficial)
 Trata-se de uma entrevista à Rádio Guaíba, realizada às 16h30m do dia 05/05/2025 sobre a reunião do COPOM que se inicia no dia 06/05/2025, findando no dia seguinte.
 
 Quando serão as próximas reuniões do COPOM?
