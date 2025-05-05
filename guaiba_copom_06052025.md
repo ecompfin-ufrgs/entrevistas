@@ -4,21 +4,13 @@
 
 Trata-se de uma entrevista à Rádio Guaíba, realizada às 16h30m do dia 05/05/2025 sobre a reunião do COPOM que se inicia no dia 06/05/2025, findando no dia seguinte.
 
-Provavelmente, o entrevistador buscará saber o que segue:
-
-
-
-3. 
-4. Qual a importância para o consumidor, para o setor produtivo e para o mercado financeiro desta reunião?
-5. O que a conjuntura e o cenário macroeconômicos de curto e médio prazos sugerem que deverá ser a decisão do COPOM?
-6. Quando serão as próximas reuniões do COPOM?
+Quando serão as próximas reuniões do COPOM?
    - 17/06 e 18/06
    - 29/07 e 30/07
    - 16/09 e 17/09
    - 04/11 e 05/11
    - 09/12 e 10/12
 
-Todas estas reuniões ocorrem nos mesmos dias o FOMC/FED a menos em novembro, pois o FOMC não se reunirá neste mês.  Ou seja, a conjuntura e cenários internacionais vão certamente afetar as decisões do COPOM.
 
 ## O que é o COPOM
 
@@ -47,6 +39,12 @@ Trata-se do Comitê de Política Monetária do Banco Central do Brasil](https://
 - Define a [taxa de juros básica da economia brasileira (SELIC)](https://www.bcb.gov.br/controleinflacao/taxaselic).
 - O valor da SELIC é definido a fim de fazer o índice de inflação medido pelo IPCA atinja um valor dentro da margem estipulada pelo CMN para a inflação (Regime de Metas de Inflação) 
 
+## O que é levado em consideração?
+ 
+1. Qual a importância para o consumidor, para o setor produtivo e para o mercado financeiro desta reunião?
+2. O que a conjuntura e o cenário macroeconômicos de curto e médio prazos sugerem que deverá ser a decisão do COPOM?
+
+Todas estas reuniões ocorrem nos mesmos dias o FOMC/FED a menos em novembro, pois o FOMC não se reunirá neste mês.  Ou seja, a conjuntura e cenários internacionais vão certamente afetar as decisões do COPOM.
 
 ### A conjuntura econômica
 
