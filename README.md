@@ -4,4 +4,4 @@
 
 ## 2025
 
-[Rádio Guaíba](guabia2025.md)
+[Rádio Guaíba](guaiba_copom_06052025.md)
